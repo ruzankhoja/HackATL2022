@@ -91,7 +91,6 @@ $('.item').on('click',function(){
   $(this).toggleClass('open');
 });
 
-
 // faq accordian //
 // let accButton = document.getElementsByClassName('label')
 // console.log(accButton)
