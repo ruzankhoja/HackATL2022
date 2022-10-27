@@ -528,7 +528,7 @@ if u r wanting to reuse element/duplicate anything*/ -Ruz
   display: flex;
   flex-direction: column;
   width: 100%;
-  padding: 250px 150px;
+  margin: 25px auto;
 }
 .wrapper * {
   transition: all 0.6s linear;
@@ -539,7 +539,7 @@ if u r wanting to reuse element/duplicate anything*/ -Ruz
   border-radius: 30px;
   border: 0.25px #000 double;
   box-shadow: -2.5px -2.5px 2.5px, -2.5px -2.5px 2.5px;
-  margin: 10px 100;
+  margin: 10px;
 }
 .wrapper .item h3 {
   font-family: 'Roboto Flex';
