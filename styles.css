@@ -1227,7 +1227,16 @@ footer hr {
         padding: 80px 75px;
     }
     /* end footer */
+    
+    /*Frequently Asked Questions*/
+    .wrapper{
+        margin: 0;
+    }
+    /* end Faqs*/
+    
+    
 }
+  
 
 
 /* small devices */
